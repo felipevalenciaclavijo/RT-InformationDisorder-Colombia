@@ -10,7 +10,7 @@ The dataset has been anonymised to ensure user privacy. Usernames have been repl
 
 ### `anon_data.csv`
 
-- **Description**: This file contains the raw data obtained from Botometer. It includes the initial data as collected before any preprocessing and the classification of Nimmo (2019).
+- **Description**: This file contains the raw data obtained from Botometer. It includes the initial data as collected before any preprocessing and also includes the classification of Nimmo (2019).
 
 ### `fix_anon_data.csv`
 
