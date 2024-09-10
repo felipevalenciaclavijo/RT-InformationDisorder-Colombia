@@ -20,7 +20,7 @@ The dataset has been anonymised to ensure user privacy. Usernames have been repl
 
 The dataset contains the following variables:
 
-- **anon_id**: Anonymized user account ID.
+- **anon_id**: Anonymised user account ID.
 - **year**: Year of account creation.
 - **TPpW**: Total Publications per Week, where Publications = Tweets + ReTweets.
 - **percentage_RT**: Percentage of ReTweets from Total Publications.
@@ -33,7 +33,7 @@ The dataset contains the following variables:
   - Suspicious
   - Organic
 
-## Data Privacy and Anonymization
+## Data Privacy and Anonymisation
 
 - **Anonymisation**: Usernames in the dataset have been anonymised to protect individual identities.
 - **Removed Variables**: Variables such as location and gender, which could potentially identify individuals, have been removed from the dataset.
