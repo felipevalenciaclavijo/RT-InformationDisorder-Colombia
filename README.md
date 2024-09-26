@@ -1,4 +1,4 @@
-# Dataset: RT and the Information Disorder in Colombia: The Case of Inna Afinogenova on Twitter
+# Dataset: Russian Information Disorder in Colombia? The Case of RT’s Inna Afinogenova on Twitter
 
 This repository contains the dataset associated with the paper titled "[RT and the Information Disorder in Colombia: The Case of Inna Afinogenova on Twitter](LINK_TO_DOI)." The dataset includes anonymised user behaviour data obtained from the Twitter API. This data is made available under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
